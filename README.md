@@ -4,9 +4,7 @@
 - 🌱 Graduando em Ciência da Computação
 - 📫 Contato: lucasgalindobatista@gmail.com
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lucasbatista001" />
-</a>
+![Lucasbatista001 GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucasbatista001&show_icons=true&theme=transparent)
 
 ## Tecnologias que eu uso no meu dia
 
@@ -16,3 +14,6 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
+
+
+
